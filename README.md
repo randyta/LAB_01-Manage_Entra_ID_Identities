@@ -28,7 +28,6 @@ This lab uses an interactive lab simulation. The simulation lets you to click th
 + [Manage Entra ID Identities](https://mslabs.cloudguides.com/guides/AZ-104%20Exam%20Guide%20-%20Microsoft%20Azure%20Administrator%20Exercise%201). Create and configure users and assign to groups. Create an Azure tenant and manage guest accounts. 
 
 ## Architecture diagram
-![Diagram of the lab 01 architecture.](../media/az104-lab01-architecture.png)
 ![az104-lab01-architecture](https://github.com/randyta/Lab-01---Manage-Microsoft-Entra-ID-Identities/assets/147352432/43b53c7b-d665-4854-ae4a-19f89545b33d)
 
 
@@ -120,7 +119,8 @@ In this task, you create a group account. Group accounts can include user accoun
 
     >**Note**: An Entra ID Premium P1 or P2 license is required for dynamic membership. If other **Membership types** are available, the options will show up in the drop-down. 
     
-    ![Screenshot of create assigned group.](../media/az104-lab01-create-assigned-group.png)
+![az104-lab01-create-assigned-group](https://github.com/randyta/Lab-01---Manage-Microsoft-Entra-ID-Identities/assets/147352432/133b08da-c623-4ed6-a31d-aa6daef17da8)
+
 
 1. Select **No owners selected**.
 
