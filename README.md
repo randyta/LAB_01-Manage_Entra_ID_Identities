@@ -19,13 +19,6 @@ This lab requires an Azure subscription. Your subscription type may affect the a
 
 Your organization is building a new lab environment for pre-production testing of apps and services.  A few engineers are being hired to manage the lab environment, including the virtual machines. To allow the engineers to authenticate by using Microsoft Entra ID, you have been tasked with provisioning users and groups. To minimize administrative overhead, membership of the groups should be updated automatically based on job titles. 
 
-## Interactive lab simulation
-
-This lab uses an interactive lab simulation. The simulation lets you to click through a similar scenario at your own pace. There are differences between the interactive simulation and this lab, but many of the core concepts are the same. An Azure subscription is not required.
-
->**Note:** This simulation is being updated. Microsoft Entra ID is the new name for Azure Active Directory (Azure AD). 
-
-+ [Manage Entra ID Identities](https://mslabs.cloudguides.com/guides/AZ-104%20Exam%20Guide%20-%20Microsoft%20Azure%20Administrator%20Exercise%201). Create and configure users and assign to groups. Create an Azure tenant and manage guest accounts. 
 
 ## Architecture diagram
 ![az104-lab01-architecture](https://github.com/randyta/Lab-01---Manage-Microsoft-Entra-ID-Identities/assets/147352432/43b53c7b-d665-4854-ae4a-19f89545b33d)
