@@ -29,6 +29,8 @@ This lab uses an interactive lab simulation. The simulation lets you to click th
 
 ## Architecture diagram
 ![Diagram of the lab 01 architecture.](../media/az104-lab01-architecture.png)
+![az104-lab01-architecture](https://github.com/randyta/Lab-01---Manage-Microsoft-Entra-ID-Identities/assets/147352432/43b53c7b-d665-4854-ae4a-19f89545b33d)
+
 
 ## Job skills
 
