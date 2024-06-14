@@ -147,22 +147,6 @@ If you are working with **your own subscription** take a minute to delete the la
 + Using the CLI, `az group delete --name resourceGroupName`.
   
 
-## Extend your learning with Copilot
-
-Copilot can assist you in learning how to use the Azure scripting tools. Copilot can also assist in areas not covered in the lab or where you need more information. Open an Edge browser and choose Copilot (top right) or navigate to *copilot.microsoft.com*. Take a few minutes to try these prompts.
-+ What are the Azure PowerShell and CLI commands to create a security group called IT Admins? Provide the official command reference page.  
-+ Provide a step-by-step strategy for managing users and groups in Microsoft Entra ID.
-+ What are the steps in the Azure portal to bulk create users and groups?
-+ Provide a comparison table of internal and external Microsoft Entra ID user accounts. 
-
-
-## Learn more with self-paced training
-
-+ [Understand Microsoft Entra ID](https://learn.microsoft.com/training/modules/understand-azure-active-directory/). Compare Microsoft Entra ID to Active Directory DS, learn about Microsoft Entra ID P1 and P2, and explore Microsoft Entra Domain Services for managing domain-joined devices and apps in the cloud.
-+ [Create Azure users and groups in Microsoft Entra ID](https://learn.microsoft.com//training/modules/create-users-and-groups-in-azure-active-directory/). Create users in Microsoft Entra ID. Understand different types of groups. Create a group and add members. Manage business-to-business guest accounts.
-+ [Allow users to reset their password with Microsoft Entra self-service password reset](https://learn.microsoft.com/training/modules/allow-users-reset-their-password/). Evaluate self-service password reset to allow users in your organization to reset their passwords or unlock their accounts. Set up, configure, and test self-service password reset.
-
-
 ## Key takeaways
 
 Congratulations on completing the lab. Here are some main takeways for this lab:
